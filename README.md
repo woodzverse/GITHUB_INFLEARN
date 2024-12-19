@@ -2,6 +2,6 @@
 - branch test1
 - branch test2
 - branch test3
-- Conflict Branch Retest
+- conflict branch test
 - reset --hard test
 - revert test
