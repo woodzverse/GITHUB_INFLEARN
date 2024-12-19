@@ -3,3 +3,4 @@
 - branch test2
 - branch test3
 - Conflict Branch Test
+- reset --hard test
