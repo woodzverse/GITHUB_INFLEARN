@@ -1,7 +1,15 @@
 # GITHUB_INFLEARN
-- branch test1
-- branch test2
-- branch test3
-- conflict branch test
-- reset --hard test
-- revert test
+인프런 **"30분 요약 강좌: 알잘딱깔센 GitHub"** 강의 실습 레포지토리입니다. 아래 사항들을 실습하며 GitHub의 주요 기능과 명령어를 테스트하였습니다.
+
+---
+
+## 실습 항목
+
+- 브랜치 생성 및 관리 테스트
+- 브랜치 간 머지(merge) 실습
+- 브랜치 삭제 및 복구 테스트
+- 충돌(conflict) 상황 발생 및 해결 실습
+- `git reset --hard` 명령어로 커밋 되돌리기 실습
+- `git revert`를 사용한 특정 커밋 복구 실습
+
+---
